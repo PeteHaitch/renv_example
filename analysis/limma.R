@@ -19,3 +19,5 @@ dim(fit)
 colnames(fit)
 rownames(fit)[1:10]
 names(fit)
+
+library(edgeR)
